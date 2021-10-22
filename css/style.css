@@ -1,0 +1,16 @@
+
+body {
+	fill-opacity: inherit;
+}
+.jumbotron {
+	padding-top: 5rem;
+}
+
+/* .row {
+	fill-opacity: initial;
+} */
+
+section {
+	border: 0rem;
+	padding-top:  3.5rem;
+}
