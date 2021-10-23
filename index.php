@@ -22,8 +22,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand navbar-dark fixed-top" style="background-color: #000;">
         <div class="container">
-          <a href="#" class="navbar-brand"><img src="img/mizuhashi white.svg" alt="mizuhashi-logo" 
-          width="38" height="30" class="d-inline-block align-top" loading="lazy">Mizuhashi Shinichi</a>
+          <a href="#" class="navbar-brand">Mizuhashi Shinichi</a>
           <button class="navbar-toggler" type="button"
           data-bs-toggle="collapse" data-bs-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle 
@@ -51,7 +50,7 @@
     <!-- akhir navbar -->
 
     <!-- Heroes Section -->
-    <section class="jumbotron text-light text-center gap-5" style="background-color: #111010;">
+    <section class="jumbotron text-light text-center" style="background-color: #111010;">
       <img src="img/image.jpg" alt="Oreki Houtaro" width="150" 
       class="rounded-circle img-thumbnail">
       <h1 class="display-4">Mizuhashi Shinichi</h1>
